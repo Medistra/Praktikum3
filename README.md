@@ -47,3 +47,13 @@ Masukan program seperti gambar berikut untuk string format lainnya:
 Maka hasilnya seperti gambar berikut:
 
 ![Gambar 11](screenshoot/ss11.png)
+
+## Penjelasan Lab2
+
+Masukan program seperti gambar berikut untuk input dan konversi nilai variable:
+
+![Gambar 12](screenshoot/ss12.png)
+
+Maka hasilnya seperti gambar berikut:
+
+![Gambar 13](screenshoot/ss13.png)
