@@ -13,3 +13,37 @@
 ## Contoh flowchart menghitung luas dan keliling lingkaran
 
 ![Gambar 3](screenshoot/ss3.png)
+
+## Penjelasan Lab1
+
+Masukan program seperti gambar berikut untuk penggunaan end:
+
+![Gambar 4](screenshoot/ss4.png)
+
+Maka hasilnya seperti gambar berikut:
+
+![Gambar 5](screenshoot/ss5.png)
+
+Masukan program seperti gambar berikut untuk penggunaan separator:
+
+![Gambar 6](screenshoot/ss6.png)
+
+Maka hasilnya seperti gambar berikut:
+
+![Gambar 7](screenshoot/ss7.png)
+
+Masukan programm seperti gambar berikut untuk string format:
+
+![Gambar 8](screenshoot/ss8.png)
+
+Maka hasilnya seperti gambar berikut:
+
+![Gambar 9](screenshoot/ss9.png)
+
+Masukan program seperti gambar berikut untuk string format lainnya:
+
+![Gambar 10](screenshoot/ss10.png)
+
+Maka hasilnya seperti gambar berikut:
+
+![Gambar 11](screenshoot/ss11.png)
